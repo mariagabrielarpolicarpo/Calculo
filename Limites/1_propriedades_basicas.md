@@ -44,10 +44,24 @@ Esta propriedade pode ser utilizada em:
 
 #### Raízes: 
 
-      lim(x->a) 
+      lim(x->a) √x³ = 
+      √[lim(x->a) x³] = 
+      √a³
 
 #### Exponenciais: 
 
+      lim(x->a) e^4x = 
+      e^[lim(x->a)4x] = 
+      e^4a
+
 #### Funções trigonométricas: 
 
+      lim(x->a) sen(x2) = 
+      sen[lim(x->a) x²] = 
+      sen a²
+
 #### Funções logarítmicas: 
+
+      lim(x->a) ln(x³) = 
+      ln[lim(x->a)x³] = 
+      ln(a³)
