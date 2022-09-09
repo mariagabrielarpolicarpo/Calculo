@@ -29,3 +29,15 @@ $$ 0 <= lim(x->+∞) \frac{sen(x)}{x} <= 0 $$
 Sendo assim: 
 
 $$lim(x->+∞) \frac{sen(x)}{x} = 0 $$
+
+## Sem trigonométricas
+
+Se f(x) é limitada entre 4 <= f(x) <= 6, então
+
+$$ lim(x->+∞) \frac{4}{x} <= lim(x->+∞) \frac{f(x)}{x} <= lim(x->+∞) \frac{6}{x}$$
+
+$$ 0 <= lim(x->+∞) \frac{f(x)}{x} <= 0 $$
+
+Logo 
+
+$$ lim(x->+∞) \frac{f(x)}{x} = 0 $$
